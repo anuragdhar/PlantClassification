@@ -9,3 +9,9 @@ https://www.quantitative-plant.org/dataset/leaf-phenotyping-dataset
 
 Tensorflow code for similar project:
 https://github.com/andobrescu/Multi_task_plant_phenotyping/blob/master/main_run.py
+
+
+Single Object coordinate Detection with PyTorch Step-by-Step
+https://python.plainenglish.io/single-object-detection-with-pytorch-step-by-step-96430358ae9d
+
+
