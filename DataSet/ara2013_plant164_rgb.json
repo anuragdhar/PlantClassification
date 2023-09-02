@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "Created": "2023-08-29T10:31:37.5017586+01:00",
+    "Modified": "2023-08-29T10:46:20.5427725+01:00",
+    "User": "Aryan",
+    "Complete": false,
+    "Ignore": false
+  },
+  "data": [
+    {
+      "Name": "Fertile",
+      "Type": "Point",
+      "Points": [
+        "51.6666666666667,46.5"
+      ]
+    },
+    {
+      "Name": "Sterile",
+      "Type": "Point",
+      "Points": [
+        "51,46.5"
+      ]
+    }
+  ]
+}
